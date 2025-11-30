@@ -18,7 +18,7 @@ An enterprise-grade multi-agent AI system that diagnoses, heals, and explains da
 - Agent-style modular deployment
 
 ### 🏗 Folder Structure 
-[image alt](https://github.com/dwarakakeerthana/AI-Agent/blob/main/Screenshot%202025-11-30%20102946.png?raw=true)
+![image alt](https://github.com/dwarakakeerthana/AI-Agent/blob/main/Screenshot%202025-11-30%20102946.png?raw=true)
 
 #### Real-World Impact
 - Saves analysts 8-12 hours per week on manual debugging and cleaning
