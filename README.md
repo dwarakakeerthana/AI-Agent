@@ -18,42 +18,7 @@ An enterprise-grade multi-agent AI system that diagnoses, heals, and explains da
 - Agent-style modular deployment
 
 ### 🏗 Folder Structure 
-AI-DATA-DOCTOR-AUGENT/
-├── src/
-│   └── data_doctor/        ← **Primary package root**
-│       ├── __init__.py
-│       ├── orchestrator.py
-│       ├── memory/
-│       │   ├── __init__.py
-│       │   ├── memory_bank.py
-│       │   └── session_service.py
-│       ├── agents/
-│       │   ├── __init__.py
-│       │   ├── profiling_agent.py
-│       │   ├── fixing_agent.py
-│       │   ├── drift_agent.py
-│       │   └── explain_agent.py
-│       └── tools/
-│           ├── __init__.py
-│           ├── api_tool.py
-│           ├── auto_cleaner.py
-│           ├── code_executor.py
-│           └── mcp_tool.py
-├── data/
-│   ├── examples/.gitkeep
-│   ├── cleaned/.gitkeep
-│   └── outputs/.gitkeep
-├── notebooks/
-│   ├── demo.ipynb
-│   └── evaluation.ipynb
-├── tests/
-│   ├── test_agents.py
-│   └── test_tools.py
-├── docs/                   (optional for competition)
-│   └── README.md
-├── .gitignore
-├── requirements.txt        ← **Keep this, don’t rename**
-└── pyproject.toml          (optional, skip if time is low)
+[image alt](https://github.com/dwarakakeerthana/AI-Agent/blob/main/Screenshot%202025-11-30%20102946.png?raw=true)
 
 #### Real-World Impact
 - Saves analysts 8-12 hours per week on manual debugging and cleaning
