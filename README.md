@@ -9,7 +9,8 @@ An enterprise-grade multi-agent AI system that diagnoses, heals, and explains da
 - LLM-powered fix explanations
 - Observability with structured logs
 - Streamlit deployment for real-world use
-####System Architecture
+  
+**System Architecture**
   ![image alt](https://github.com/dwarakakeerthana/AI-Agent/blob/main/Screenshot%202025-11-30%20102908.png?raw=true)
   
 ### 🧠 Concepts Demonstrated (Kaggle Capstone Requirements)
